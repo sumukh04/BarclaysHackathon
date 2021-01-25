@@ -12,7 +12,7 @@ import com.book.ecommerce.service.IBooksService;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://sumukh-barclays-angular.herokuapp.com")
 public class BooksController {
 	
 	@Autowired
